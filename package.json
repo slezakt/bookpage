@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "nuxt": "3.0.0-rc.5"
+  },
+  "dependencies": {
+    "@nuxtjs/sanity": "^1.2.3",
+    "@sanity/client": "^3.3.2",
+    "@sanity/image-url": "^1.0.1"
+  }
+}
